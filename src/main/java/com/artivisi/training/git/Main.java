@@ -8,4 +8,9 @@ public class Main {
 	public Integer tambah(int x, int y){
 		return x+y;
 	}
+
+        public Integer kurang(int x, int y){
+                return x-y;
+        }
+
 }
