@@ -5,6 +5,14 @@ public class Karyawan {
 	private String name;
 	private String gender;
 	private String telp;
+	private String agama;
+
+	public String getAgama(){
+		return agama;
+	}
+	public void setAgama(String agama){
+		this.agama = agama;
+	}
 	public String getNip() {
 		return nip;
 	}
