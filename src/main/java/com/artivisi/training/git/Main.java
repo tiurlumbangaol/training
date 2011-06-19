@@ -17,4 +17,8 @@ public class Main {
                 return x*y;
         }
 
+        public Integer bagi(int x, int y){
+                return x/y;
+        }
+
 }
