@@ -10,7 +10,7 @@ public class Main {
 	}
 
         public Integer kurang(int x, int y){
-                return x-y+19;
+                return x-y;
         }
 
         public Integer kali(int x, int y){
