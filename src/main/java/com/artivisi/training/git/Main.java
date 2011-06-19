@@ -13,4 +13,8 @@ public class Main {
                 return x-y+19;
         }
 
+        public Integer kali(int x, int y){
+                return x*y;
+        }
+
 }
